@@ -36,7 +36,7 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         // Список, в котором будем хранить по одному элементу
         // из ста циклических коллекций
         List<CyclicCollection.Element> list = new LinkedList<>();
